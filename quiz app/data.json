@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "question": "What does CSS stand for?",
+    "answers": {
+      "answer_1": "Cascading Style Sheets",
+      "answer_2": "Creative Style Sheets",
+      "answer_3": "Computer Style Sheets",
+      "answer_4": "Colorful Style Sheets"
+    },
+    "correct_answer": "Cascading Style Sheets"
+  },
+
+  {
+    "id": 2,
+    "question": "Where in an HTML document is the correct place to refer to an external style sheet?",
+    "answers": {
+      "answer_1": "In the head section",
+      "answer_2": "At the end of the document",
+      "answer_3": "In the <body> section"
+    },
+    "correct_answer": "In the head section"
+  },
+
+  {
+    "id": 3,
+    "question": "Which HTML attribute is used to define inline styles?",
+    "answers": {
+      "answer_1": "style",
+      "answer_2": "class",
+      "answer_3": "styles",
+      "answer_4": "font"
+    },
+    "correct_answer": "style"
+  },
+  {
+    "id": 4,
+    "question": "Which property is used to change the background color?",
+    "answers": {
+      "answer_1": "bgcolor",
+      "answer_2": "background-color",
+      "answer_3": "color"
+    },
+    "correct_answer": "background-color"
+  },
+  {
+    "id": 5,
+    "question": "Which CSS property is used to change the text color of an element?",
+    "answers": {
+      "answer_1": "color",
+      "answer_2": "text-color",
+      "answer_3": "fgcolor"
+    },
+    "correct_answer": "color"
+  },
+  {
+    "id": 6,
+    "question": "Which CSS property controls the text size?",
+    "answers": {
+      "answer_1": "font-size",
+      "answer_2": "text-style",
+      "answer_3": "text-size",
+      "answer_4": "font-style"
+    },
+    "correct_answer": "font-size"
+  },
+  {
+    "id": 7,
+    "question": "How do you make each word in a text start with a capital letter?",
+    "answers": {
+      "answer_1": "You can't do that with CSS",
+      "answer_2": "transform:capitalize",
+      "answer_3": "text-transform:capitalize",
+      "answer_4": "text-style:capitalize"
+    },
+    "correct_answer": "text-transform:capitalize"
+  },
+  {
+    "id": 8,
+    "question": "How do you make the text bold?",
+    "answers": {
+      "answer_1": "style:bold;",
+      "answer_2": "font-weight:bold;",
+      "answer_3": "font:bold;"
+    },
+    "correct_answer": "font-weight:bold;"
+  },
+  {
+    "id": 9,
+    "question": "Which property is used to change the left margin of an element?",
+    "answers": {
+      "answer_1": "padding-left",
+      "answer_2": "margin-left",
+      "answer_3": "indent"
+    },
+    "correct_answer": "margin-left"
+  },
+  {
+    "id": 10,
+    "question": "How do you make a list that lists its items with squares?",
+    "answers": {
+      "answer_1": "list: square;",
+      "answer_2": "list-style-type: square;",
+      "answer_3": "list-type: square;"
+    },
+    "correct_answer": "list-style-type: square;"
+  }
+]
